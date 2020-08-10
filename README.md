@@ -28,7 +28,7 @@ For GUI **Python's Tkinter library** has been used.
 -Working Of Face Identifier :
 
 
-![3 (2)](https://user-images.githubusercontent.com/43703209/77537836-c1a9d680-6ec4-11ea-81f0-64d03b8d4bf9.jpg)
+![3 (2)](https://user-images.githubusercontent.com/43703209/89748826-d63ce300-dae2-11ea-99f1-5c10dcdff7f4.png)
 
 
 - Saving Daily Attendance and Making it ready for another day(password protected):
