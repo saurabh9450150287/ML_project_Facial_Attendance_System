@@ -1,4 +1,4 @@
-# ML_project_Facial_Attendance_System
+# ML-project-Facial-Attendance-System
 
 
 ## Introduction
